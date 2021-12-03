@@ -13,9 +13,11 @@ The series will follow the crawl-walk-run method, so we will start slow and prog
 Coding can be intimidating at first, even more so when you have no idea where to start when it comes to creating hacking tools! I plan to go in detail so the code will be heavily commented to show exactly what each part is doing. Try not to copy and paste as that is not doing you any good. Code the tools with me and add your own tweak to them! We will only be using the terminal so no time will be wasted creating GUI's.
 
 We will be primarily using Python but we won't shy away from any other language throughout the series. Python is so versatile, but I also want to add in C++ periodically as Bonus Code snippets to show variations in languages. Straight from the horse's mouth...
-
+```bash
 "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability allowing programmers to write clear, logical code".
+```
 Lets take some time to think about some of the tools we will need, I'm positive by the end we will have completed much more than whats on this brief list...
+
 Port Scanners
 -> As an Ethical Hacker; port scanning is something you should become familiar with, we are going to be doing reconnaissance to fingerprint the target to find ports/services and other useful info.
 
