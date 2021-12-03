@@ -8,7 +8,7 @@ Welcome to the beginning of the track for HacktheBox Re-Coded; our goal for the 
 
 Hackthebox helps us prepare on entering a career as an Ethical Hacker/Penetration tester and many other professions by allowing us to perform these nefarious activities on their platform, but what exactly is a Penetration test?
 
-A Penetration test or "Pentest" is an Authorized attack on a computer system! Why would someone allow this? This is actually a proactive way to IT Security; if we can breach our own networks/systems like a Black Hat, those areas can be strengthened and remediated. This is not a one stop solution, Cybersecurity has many revolving doors and this is just one of them.
+A Penetration test or "Pentest" is an Authorized attack on a computer system! Why would someone allow this? This could be seen as a proactive way to secure big data; if we can breach our own networks/systems like a Black Hat, those areas can be strengthened and remediated. This is not a one stop solution, Cybersecurity has many revolving doors and this is just one of them.
 
 The series will follow the crawl-walk-run method, so we will start slow and progress our coding technique to give context to certain areas such as Threading/Multiprocessing or advanced networking concepts. One of our main objectives is network programming and its aspects so we will break down protocols to their basic building blocks.
 
