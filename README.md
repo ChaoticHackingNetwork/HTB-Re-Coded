@@ -18,6 +18,7 @@ We will be primarily using Python but we won't shy away from any other language 
 ```
 Lets take some time to think about some of the tools we will need, I'm positive by the end we will have completed much more than whats on this brief list...
 
+```text
 Port Scanners
 -> As an Ethical Hacker; port scanning is something you should become familiar with, we are going to be doing reconnaissance to fingerprint the target to find ports/services and other useful info.
 
@@ -41,6 +42,7 @@ Debuggers & DLL Injection
 
 Windows/Linux Priviledge Escalation
 -> Once we gain initial access, we want different tools/scripts to help automate or at least help point us in the right direction for escalating priviledges. Scripts like WinEnum/LinEnum.
+```
 
 Python can work as long as you have it installed and have the needed modules, mostly everything we will use will be in the standard library but we will be downloading others for things like color. I will be working from the Linux side of the house, but you can still follow along within Windows/Mac.. Lastly, the new HTB platform changes IP's so some screenshots will show a different IP as I did not complete the codeup in one sitting. Enough of the boring stuff, Lets CODE...
 
