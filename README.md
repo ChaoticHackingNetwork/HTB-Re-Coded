@@ -1,5 +1,5 @@
 # HTB-Re-Coded
-***HacktheBox Re-Coded - Codeups***
+<center>***HacktheBox Re-Coded - Codeups***</center>
 
 **Intro**
 
