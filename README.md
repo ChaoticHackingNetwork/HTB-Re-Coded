@@ -1,7 +1,7 @@
 # HTB-Re-Coded
 HacktheBox Re-Coded - Codeups
 
-Intro
+**Intro**
 
 
 Welcome to the beginning of the track for HacktheBox Re-Coded; our goal for the series is to become a better programmer in the terms of Ethical Hacking. What do I mean by that? Well, we won't be creating a new Social Media Platform, instead we will be coding tools to penetrate systems and networks. We will code our way through the Hackthebox network, no nmap/metasploit or whatever else your familiar with just the tools we create! Don't consider the series and tools as reinventing the wheel but rather gaining a better understanding of the tools we use daily. To be a true hacker, you need to know how to code.
