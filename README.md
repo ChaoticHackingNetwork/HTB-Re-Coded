@@ -1,6 +1,8 @@
 # HTB-Re-Coded
 ***HacktheBox Re-Coded - Codeups***
 
+**"The differerence between Professionals and Script Kiddies is the difference merely between using other people's tools and writing your own" - Charlie Miller**
+
 **Intro**
 
 
