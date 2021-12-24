@@ -1,4 +1,4 @@
-// Windows Process Enumerater
+// Windows Process Enumeration
 // HTB Re-Coded
 // Windows Enumeration 
 
