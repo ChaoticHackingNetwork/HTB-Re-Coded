@@ -8,7 +8,7 @@
 #include <TlHelp32.h> // ToolHelp API 
 
 int Error(const char *msg) {
-	printf("%s (%u)", msg, GetLastError()); // Get Error code that happened last
+	printf("%s (%u)", msg, GetLastError()); // Get Error code
 	return 1;
 }
 
