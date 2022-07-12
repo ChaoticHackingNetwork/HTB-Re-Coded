@@ -1,5 +1,3 @@
-Lame Codeup Release Date: UNKNOWN
+Lame Codeup Release Date: 8/1/2022
 
-Started in a new position! Have not put the time needed to finish Lame! I will complete it ASAP after getting situated
-
-![name-of-you-image](https://github.com/ChaoticHackingNetwork/HTB-Re-Coded/blob/main/Codeups/Lame/lame.png?raw=true)
+<center>![name-of-you-image](https://github.com/ChaoticHackingNetwork/HTB-Re-Coded/blob/main/Codeups/Lame/lame.png?raw=true)</center>
